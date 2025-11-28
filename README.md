@@ -1,1 +1,1 @@
-# kjjrichmond.github.io
+# Files for my academic webpage.
